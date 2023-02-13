@@ -2,14 +2,14 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: 100%/1.4 Courier, cursive, Times, sans-serif;
+	font: 100%/1.4 Times, Georgia, Palatino, serif;
 }
 
 a:link {
      color: #5DFF00;
 }
 a:visited {
-     color: #FFD;
+     color: #FF8600;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
