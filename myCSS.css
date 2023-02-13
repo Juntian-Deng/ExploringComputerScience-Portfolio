@@ -3,16 +3,13 @@
 body {
 	margin: 0 auto;
 	font: 100%/1.4 Courier, cursive, Times, sans-serif;
-    	 margin: 0;
-     	padding: 0;
-     	color: #000;
 }
 
 a:link {
-     color: #000000;
+     color: ##5DFF00;
 }
 a:visited {
-     color: #000;
+     color: #FFD;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
